@@ -1,0 +1,11 @@
+sudo apt install snapd
+
+sudo apt update
+
+sudo snap install snap-store
+
+
+git --version 
+sudo apt-get install git 
+sudo apt-get install git-core 
+sudo apt-get install git-gui git gui
