@@ -9,3 +9,6 @@ git --version
 sudo apt-get install git 
 sudo apt-get install git-core 
 sudo apt-get install git-gui git gui
+
+how to install jupyter notebook in visual studio code 
+https://www.youtube.com/watch?v=FSdIoJdSniga
