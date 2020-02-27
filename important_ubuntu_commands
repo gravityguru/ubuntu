@@ -31,3 +31,7 @@ $ sudo rm /var/lib/dpkg/lock
 $ sudo dpkg --configure -a
 $ sudo apt install -f
 
+
+install pip on ubuntu
+sudo apt install python3-pip
+
