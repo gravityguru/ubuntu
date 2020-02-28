@@ -35,3 +35,51 @@ $ sudo apt install -f
 install pip on ubuntu
 sudo apt install python3-pip
 
+
+
+install jupyter notebook and jupyter lab
+
+pip3 install notebook
+pip3 install jupyterlab
+pip install jupyter
+
+
+installing python 3.7 on ubuntu
+
+https://www.digitalocean.com/community/questions/unable-to-install-pyhton-3-7-version-on-ubuntu-16-04-error-couldn-t-find-any-package-by-regex-python3-7
+
+sudo apt update
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.7
+python3.7 --version
+
+
+when there is no left bar in ubuntu
+
+Cntrl+Alt+F2
+sudo apt-get update
+sudo apt-get install --reinstall ubuntu-desktop
+sudo apt-get install unity
+
+sudo reboot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
