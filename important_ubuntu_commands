@@ -1,3 +1,14 @@
+How to change the time for OS selection menu in GRUB?
+sudo apt install gksu
+gksu gedit /etc/default/grub
+# then edit GRUB_TIMEOUT=10
+sudo update-grub
+
+
+
+
+
+
 sudo apt install snapd
 
 sudo apt update
@@ -64,6 +75,44 @@ sudo apt-get install --reinstall ubuntu-desktop
 sudo apt-get install unity
 
 sudo reboot
+
+
+
+Java Installation on Ubuntu 16.04 for eclipse to use for ROS
+https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
+sudo apt update
+sudo apt install openjdk-8-jdk openjdk-8-jre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
